@@ -36,5 +36,7 @@ nosetests.xml
 
 # Other
 .svn
-settings_local.py
-media/*
+
+# development database
+main.db
+
