@@ -39,3 +39,5 @@ nosetests.xml
 
 # Automates pulls from github to the server
 webhook-deployer
+
+local_settings.py
