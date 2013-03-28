@@ -34,9 +34,8 @@ nosetests.xml
 .project
 .pydevproject
 
-# Other
+# you never know
 .svn
 
-# development database
-main.db
-
+# Automates pulls from github to the server
+webhook-deployer
