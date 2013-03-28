@@ -1,9 +1,7 @@
 # README
 
-Wordology is a django project designed to help with studying chinese vocabulary. It differs somewhat from the basic project described in the documentation. The biggest differences are version control (git), rapid deployment with south and fabric, and using a virtualenv to house all the python outside of the project.
-
-Using a virtualenv appears to break the admin app's access to static files, requiring a symbolic link at static/admin to the static files folder in virtualenv. An alternative is to simply copy these files into the project
+Wordology is a django project designed to help with studying chinese vocabulary. It differs somewhat from the basic project described in the django documentation. The biggest differences are version control (git), rapid deployment with south and fabric.
 
 local elements of the settings file have have been split off into local_settings.py. this file will need to be created if it isn't present
 
-Fabric will be deployed later
+Fabric has not yet been set up.
