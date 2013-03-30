@@ -1,3 +1,0 @@
-# fabfile.py for wordology
-
-
