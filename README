@@ -2,4 +2,4 @@ Wordology is a django project designed to help with studying chinese vocabulary.
 
 local elements of the settings file have have been split off into local_settings.py. this file will need to be created if it isn't present
 
-Fabric has not yet been set up.
+Installing mysql-python via pip requires libmysqlclient-dev
