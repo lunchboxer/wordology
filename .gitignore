@@ -39,8 +39,5 @@ nosetests.xml
 # you never know
 .svn
 
-# Automates pulls from github to the server
-webhook-deployer
-
 local_settings.py
 fabfile.py
